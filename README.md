@@ -33,3 +33,14 @@ add crontab
 0 */1 * * * root /path/to/cryptad-crawler/cmd.js
 ```
 
+License
+-------
+MIT License
+
+donate
+------
+
+bitcoin:1GLnWVBpadWnHpxf8KpXTQdwMdHAWtzNEw  
+monacoin:MCEp2NWSFc352uaDc6nQYv45qUChnKRsKK  
+
+
