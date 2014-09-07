@@ -1,0 +1,7 @@
+{
+ "email_address" : "",
+ "recv_address" : {
+  "MONA" : "",
+  "BTC" : ""
+ }
+}
