@@ -30,7 +30,7 @@ add crontab
 -----------
 
 ```
-0 */10 * * * root /path/to/cryptad-crawler/cmd.js
+0 */1 * * * root /path/to/cryptad-crawler/cmd.js
 ```
 
 License
